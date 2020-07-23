@@ -3,22 +3,41 @@
 
 Here are some ideas to get you started:
 -->
-<img 
-  width="auto" 
-  height="400px" 
-  style="display:block;
-        margin-left: auto;
-        margin-right: auto;"
-  src="https://github.com/luanrem/luanrem/blob/master/coding-freak.gif?raw=true"
->
+
+<img width="auto" height="400px" src="https://github.com/luanrem/luanrem/blob/master/coding-freak.gif?raw=true">
 
 <h2 style="text-align: center;">Hi there 👋 Luan coding here :computer:</h2>
 
-- 🌱 I’m currently learning React and Node
-- 🤔 I’m looking for help with flux architecture
-- 💬 Ask me about what you want to know
-- 📫 How to reach me: luanrem@gmail.com
-- ⚡ Fun fact: 
+<table boder="0" style="border: 0">
+  <tr  style="text-align: center; border: 0">
+    <td style="text-align: center; border: 0">
+      <ul>
+        <li>🌱 I’m currently learning React and Node</li>
+        <li>🤔 I’m looking for help with flux architecture</li>
+        <li>💬 Ask me about what you want to know</li>
+        <li>📫 How to reach me: luanrem@gmail.com</li>
+        <li>🔭 I’m currently working on React Dashboard </li>
+      </ul>
+    </td style="text-align: center; border: 0">
+    
+<td>
+
+<img width="auto" height="200px" src="https://miro.medium.com/max/2160/1*9S3JhMtLGiacpNpziWGN1A.gif">
+
+</td>
+
+<td>
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LuanMartins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanrem)](https://www.linkedin.com/in/luanrem) 
+
+[![Gmail Badge](https://img.shields.io/badge/-luanrem@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanrem@gmail.com)](mailto:luanrem@gmail.com)
+
+
+</td>
+  </tr>
+</table>
+
+
 
 
 <!--
@@ -27,4 +46,5 @@ Some characteres and emoticons to save
 - 🔭 I’m currently working on ...
 - 😄 Pronouns: ...
 - 👯 I’m looking to collaborate on ...
+⚡ Fun fact:
 -->
