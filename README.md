@@ -3,7 +3,14 @@
 
 Here are some ideas to get you started:
 -->
-<img width="auto" height="400px" src="https://github.com/luanrem/luanrem/blob/master/coding-freak.gif?raw=true">
+<img 
+  width="auto" 
+  height="400px" 
+  style="display:block;
+        margin-left: auto;
+        margin-right: auto;"
+  src="https://github.com/luanrem/luanrem/blob/master/coding-freak.gif?raw=true"
+>
 
 <h2 style="text-align: center;">Hi there 👋 Luan coding here :computer:</h2>
 
