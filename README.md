@@ -1,18 +1,23 @@
-![Luan Roberto Estrada Martins](https://wallpaperhd.wiki/wp-content/uploads/hd-backgrounds-abstract-wallpaper.wiki-3d-abstract-wallpaper-free-download-pic-wpe008342.jpg)
-
-### Hi there 👋
-
 <!--
 **luanrem/luanrem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
+![Thiago Marinho](./coding-freak)
 
+<h2 style="text-align: center;">Hi there 👋 Luan coding here :computer:</h2>
+
+- 🌱 I’m currently learning React and Node
+- 🤔 I’m looking for help with flux architecture
+- 💬 Ask me about what you want to know
+- 📫 How to reach me: luanrem@gmail.com
+- ⚡ Fun fact: 
+
+
+<!--
+Some characteres and emoticons to save
+♥️ 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on ...
 -->
