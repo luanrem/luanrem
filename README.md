@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 -->
-![Thiago Marinho](./coding-freak)
+![Luan Coding Freak](https://github.com/luanrem/luanrem/blob/master/coding-freak.gif?raw=true)
 
 <h2 style="text-align: center;">Hi there 👋 Luan coding here :computer:</h2>
 
