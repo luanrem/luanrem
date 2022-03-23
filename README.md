@@ -12,11 +12,10 @@ Here are some ideas to get you started:
   <tr  style="text-align: center; border: 0">
     <td style="text-align: center; border: 0">
       <ul>
-        <li>🌱 I’m currently learning React and Node</li>
-        <li>🤔 I’m looking for help with flux architecture</li>
+        <li>🌱 I’m currently learning NextJs</li>
         <li>💬 Ask me about what you want to know</li>
-        <li>📫 How to reach me: luanrem@gmail.com</li>
-        <li>🔭 I’m currently working on React Dashboard </li>
+        <li>📫 How to reach me: luanrem@gmail.com or linkedin profile</li>
+        <li>🔭 I’m currently working on <a href="https://github.com/luanrem/ramaapp">NextJS Dashboard</a> </li>
       </ul>
     </td style="text-align: center; border: 0">
     
