@@ -91,6 +91,7 @@
 
 # Projects:
 
-| 🚀 **Project**  | 💻 **Website** |
-| - | - |
-| [![MoveIt](https://img.shields.io/static/v1?label=&message=MoveIt&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/luanrem/moveit-next) | [moveit.luanmartins.com](https://moveit.luanmartins.com/) |
+| 🚀 **Project**  | 💻 **Website** | ⚙ **Technology** |
+| - | - | - |
+| [![MoveIt](https://img.shields.io/static/v1?label=&message=MoveIt&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/luanrem/moveit-next) | [moveit.luanmartins.com](https://moveit.luanmartins.com/) | [ReactJs](https://reactjs.org) [Typescript](https://www.typescriptlang.org) |
+| [![Money Counter](https://img.shields.io/static/v1?label=&message=Money+Counter&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/luanrem/smtc-moneycounter) (under construction) | [moneycounter.luanmartins.com](https://moneycounter.luanmartins.com) | [ReactJs](https://reactjs.org) [Typescript](https://www.typescriptlang.org) [Styled Components](https://styled-components.com) |
