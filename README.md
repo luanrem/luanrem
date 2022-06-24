@@ -1,4 +1,4 @@
-<h1><a href="https://www.instagram.com/luanrem/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>Hello there, Nice to see you here.</h1>
+<h1><a href="https://www.instagram.com/luanrem/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a>Hello there, Nice to see you here.</h1>
 
 <br />
 
@@ -74,8 +74,10 @@
 
 
 - 💬 Ask me about what you want to know
-- 📫 How to reach me: luanrem@gmail.com or linkedin profile
-- 🔭 I’m currently working on [NextJS Dashboard](https://github.com/luanrem/ramaapp) 
+- 📫 How to reach me: luanrem@gmail.com or [Linkedin profile](www.linkedin.com/in/luanrem
+)
+- 🔭 I’m currently working on [NextJS Dashboard](https://github.com/luanrem/ramaapp)
+- 📚 I'm currently studying [ThreeJS](https://threejs.org)
     
     <br />
 <div align="left">
@@ -94,4 +96,5 @@
 | 🚀 **Project**  | 💻 **Website** | ⚙ **Technology** |
 | - | - | - |
 | [![MoveIt](https://img.shields.io/static/v1?label=&message=MoveIt&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/luanrem/moveit-next) | [moveit.luanmartins.com](https://moveit.luanmartins.com/) | [ReactJs](https://reactjs.org) [Typescript](https://www.typescriptlang.org) |
-| [![Money Counter](https://img.shields.io/static/v1?label=&message=Money+Counter&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/luanrem/smtc-moneycounter) (under construction) | [moneycounter.luanmartins.com](https://moneycounter.luanmartins.com) | [ReactJs](https://reactjs.org) [Typescript](https://www.typescriptlang.org) [Styled Components](https://styled-components.com) |
+| [![Money Counter](https://img.shields.io/static/v1?label=&message=Money+Counter&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/luanrem/smtc-moneycounter) | [moneycounter.luanmartins.com](https://moneycounter.luanmartins.com) | [ReactJs](https://reactjs.org) [Typescript](https://www.typescriptlang.org) [Styled Components](https://styled-components.com) |
+| [![Furniture Discount](https://img.shields.io/static/v1?label=&message=Furniture+Discount&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/luanrem/furniture_discount) (under construction) | [desconto.luanmartins.com](https://desconto.luanmartins.com) | [NextJs](https://nextjs.org) [ReactJs](https://reactjs.org) [Typescript](https://www.typescriptlang.org) [Chakra-ui](https://chakra-ui.com) |
