@@ -76,8 +76,8 @@
 - 💬 Ask me about what you want to know
 - 📫 How to reach me: luanrem@gmail.com or [Linkedin profile](www.linkedin.com/in/luanrem
 )
-- 🔭 I’m currently working on [NextJS Dashboard](https://github.com/luanrem/ramaapp)
-- 📚 I'm currently studying [ThreeJS](https://threejs.org)
+- 🔭 I’m currently working on [Task Manager](https://github.com/luanrem/taskmanager)
+- 📚 I'm currently studying [ThreeJS](https://threejs.org) with Bruno Simon in [ThreeJS Journey](https://threejs-journey.com)
     
     <br />
 <div align="left">
