@@ -77,7 +77,7 @@
 - 📫 How to reach me: luanrem@gmail.com or [Linkedin profile](www.linkedin.com/in/luanrem
 )
 - 🔭 I’m currently working on [Task Manager](https://github.com/luanrem/taskmanager)
-- 📚 I'm currently studying [ThreeJS](https://threejs.org) with Bruno Simon in [ThreeJS Journey](https://threejs-journey.com)
+- 📚 I'm currently studying [ThreeJS](https://threejs.org) with Bruno Simon in [ThreeJS Journey](https://threejs-journey.com) and NodeJS on [Ignite](https://lp.rocketseat.com.br/ignite) from [Rocketseat](https://www.rocketseat.com.br)
     
     <br />
 <div align="left">
