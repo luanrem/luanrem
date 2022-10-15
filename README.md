@@ -78,6 +78,12 @@
 )
 - 🔭 I’m currently working on [Task Manager](https://github.com/luanrem/taskmanager)
 - 📚 I'm currently studying [ThreeJS](https://threejs.org) with Bruno Simon in [ThreeJS Journey](https://threejs-journey.com) and NodeJS on [Ignite](https://lp.rocketseat.com.br/ignite) from [Rocketseat](https://www.rocketseat.com.br)
+
+## Ideas
+
+- Task manager in Electron
+- FrontEnd for google forms
+- Github readme stats
     
     <br />
 <div align="left">
