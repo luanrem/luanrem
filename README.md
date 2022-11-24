@@ -81,9 +81,11 @@
 
 ## Ideas
 
-- Task manager in Electron
-- FrontEnd for google forms
-- Github readme stats
+This is some ideas I have that could be a project soon or not. If this list increase I am thinking to create a repository of ideas I have.
+
+- [ ] Task manager in Electron
+- [ ] FrontEnd for google forms
+- [ ] Github readme stats
     
     <br />
 <div align="left">
@@ -92,12 +94,17 @@
   <small>Languages used in my public repos - love typescript 😛</small>
   <br />
   <br />
+  <br />
 </div>
 
-<br />
-<br />
+<div align="left">
+  <img width="" src="http://github-readme-streak-stats.herokuapp.com?user=luanrem&theme=horizon&hide_border=true" alt="Top language used in my repos" />
+  <br />
+  <small>It's not a competition, Just to remember me to code everyday</small>
+  <br />
+  <br />
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luanrem&theme=horizon&hide_border=true)](https://git.io/streak-stats)
 
 # Projects:
 
