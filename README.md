@@ -77,7 +77,7 @@
 - 📫 How to reach me: luanrem@gmail.com or [Linkedin profile](www.linkedin.com/in/luanrem
 )
 - 🔭 I’m currently working on [Task Manager](https://github.com/luanrem/taskmanager)
-- 📚 I'm currently studying [ThreeJS](https://threejs.org) with Bruno Simon in [ThreeJS Journey](https://threejs-journey.com) and NodeJS on [Ignite](https://lp.rocketseat.com.br/ignite) from [Rocketseat](https://www.rocketseat.com.br)
+- 📚 I'm currently studying [ThreeJS](https://threejs.org) with Bruno Simon in [ThreeJS Journey](https://threejs-journey.com) and [leetcoding](https://github.com/luanrem/coding-challenges) 
 
 ## Ideas
 
@@ -86,6 +86,7 @@ This is some ideas I have that could be a project soon or not. If this list incr
 - [ ] Task manager in Electron
 - [ ] FrontEnd for google forms
 - [ ] Github readme stats
+- [ ] Devs portal with coins
     
     <br />
 <div align="left">
