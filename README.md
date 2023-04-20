@@ -73,7 +73,6 @@
 <br />
 
 
-- 💬 Ask me about what you want to know
 - 📫 How to reach me: luanrem@gmail.com or [Linkedin profile](www.linkedin.com/in/luanrem
 )
 - 🔭 I’m currently working on [Task Manager](https://github.com/luanrem/taskmanager)
@@ -86,7 +85,6 @@ This is some ideas I have that could be a project soon or not. If this list incr
 - [ ] Task manager in Electron
 - [ ] FrontEnd for google forms
 - [ ] Github readme stats
-- [ ] Devs portal with coins
     
     <br />
 <div align="left">
